@@ -1,0 +1,4 @@
+Modelo,MAE,RMSE,R2
+RNA (30) L-BFGS,0.3372,0.4513,0.998
+Regresion lineal,2.2147,3.0424,0.9112
+Random Forest,0.3733,0.519,0.9974
